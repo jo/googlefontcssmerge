@@ -8,8 +8,16 @@
     "type": "git",
     "url": "https://github.com/jo/googlefontcssmerge.git"
   },
+  "keywords": [
+    "fonts",
+    "css"
+  ],
   "author": "Johannes J. Schmidt <schmidt@netzmerk.com> (http://die-tf.de/)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jo/googlefontcssmerge/issues"
+  },
+  "homepage": "https://github.com/jo/googlefontcssmerge",
   "dependencies": {
     "async": "^0.9.0",
     "css": "^2.1.0",
